@@ -1,0 +1,163 @@
+__________________________________________
+
+Basic Processes:
+
+Add Image Refrence:
+- Rotate View to Match Refrence
+- Switch to Object Mode in Viewport
+- Select 'Orthos' Collection in Outliner
+- w/ Mouse over Viewport, Press 'Shift A',
+- Add an 'Image->Refrence' Object to Scene
+- Locate the Image Refrence File to Import
+- In Outliner, 'Double Click' Image Refrence,
+- Re-Name Image Refrence to Match View
+- Go to Properties Tab, Under Object Data,
+- Set Depth, Side, Display & Transparency
+- Adjust Image Transform in the Viewport
+- Disable Selection of Image In Outliner
+[Video Walk-Thru: - Coming Soon!]
+
+Import F-spy Refrence:
+- 
+[Video Walk-Thru: - Coming Soon!]
+__________________________________________
+
+Modeling Processes:
+
+Types of Modeling:
+- "Box"-Modeling
+- "Non"-Destructive
+
+Basic Modeling Steps:
+- achieve base shapes
+- gets smaller details
+- apply subdivision &
+- & edge loop holds!
+- & face inset holds!
+- reduce poly count!
+- separate/join parts
+
+Mirror Mesh:
+- make sure your mesh has a middle loop
+- In Edit Mode, Select Unwanted Mesh Half
+- Delete Vertecies, Keep Middle Verticies
+-  
+[Video Walk-Thru: - Coming Soon!]
+
+Remove Intersecting Meshes:
+- 
+[Video Walk-Thru: - Coming Soon!]
+
+Normal Data Transfer:
+- just remember for now !!!
+[Video Walk-Thru: - Coming Soon!]
+__________________________________________
+
+UV Unwrapping Processes: 
+
+Basic UV Unwrapping Steps:
+-  
+__________________________________________
+
+Rigging Processes:
+
+Types of Rigging:
+- Hard-Surface
+- Soft-Body
+- Character
+- Facial Basic
+
+Rigging Steps:
+- Create Armature/Bones
+- Parent Mesh to Armature
+- Set Desired Vertex Weights
+____________________________________
+
+Heirarchy Organization Outline:
+| Joints = Bones that Deform Mesh |
+| Controls = Bones that  |
+- Separate Geomentry, Joints, & Controls
+  in Scene Collections to Group in Ountliner
+- Duplicate the Joints & Place
+____________________________________
+
+Adding a Driver:
+-
+
+Making an Action:
+-
+
+Action Constraints:
+- 
+
+Constrain Rotation (Scripted Expression):
+| Internal Rotation Constraint |
+| Flips 180 Degrees at Bounds. |
+- Drive the Rotation Axis w/an Empty:
+| min(radians(_Max),              |
+| max(radians(_Min), _EmptyAxis)) |
+- or
+| max(radians(_Min),              |
+| min(radians(_Max), _EmptyAxis)) |
+- this will make the Driven Axis
+  follow the Empty Axis up to
+  the set Min or Max Value.
+[This way is Faster to set up!]
+
+Constrain Rotation (Driver Graph F-Curve):
+| Internal Rotation Constraint |
+| Flips 180 Degrees at Bounds. |
+- Drive the Rotation Axis w/an Empty:
+- Copy the Empty's Rotation Data Path
+- "Single Property" Variable in Driver
+- Select Driver Object's Heirarchy
+- Paste Empty Rotation's Data Path
+- Specify Axis at Path end ".x, y, z"
+- Now Open the "Driver Graph" Window:
+- Driven Object should have Keys on it
+- Select the Driven Object & Channel
+- Select All Keys on the Channel
+- Set Key Interpolation "Linear"
+- Set Key Extrapolation "Constant"
+- Select One Keyframe on the Graph
+- Press "N" to open Properties Tab:
+| The Graph is Driver & Driven Values |
+| Key Frame is Driver Axis Radian Values |
+| Value is the Driven Rotation Degrees |
+| So 1 Radian = 57.2958 Degrees ... |
+- Make the Key Values the Min & Max
+- this will make the Driven Axis
+  follow the Empty Axis up to
+  the set Min or Max Value.
+____________________________
+
+"Complex" Driver Examples:
+
+Multi-If/Else w/Degree-Arc Reading:
+| 0                                |
+| if degrees(var) > -55            |
+| else                             |
+| - radians(degrees(var) + 55) * 4 | 
+| if degrees(var) > -100           |
+| else                             |
+| radians(181)                     |
+
+____________________________
+
+__________________________________________
+
+Animation Processes:
+
+Basic Animation Steps:
+- 
+__________________________________________
+
+Sculpting Processes:
+
+Types of Sculpting:
+- for Static Meshes
+- for Texture Maps
+
+Basic Sculpting Steps:
+- 
+__________________________________________

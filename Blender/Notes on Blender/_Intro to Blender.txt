@@ -1,0 +1,33 @@
+__________________________________________
+
+Introduction to Operating Blender:
+
+3D Viewport Control:
+- 
+Things to Cover:
+- Numpad Hotkeys
+- Quad View
+- Side Pannels
+- Overlays Menu
+- Basic Selecting
+- 3D View Navigation
+[Video Walk-Thru: - Coming Soon!]
+
+Object Mode Control:
+- 
+Things to Cover:
+- Transformation Tools
+- Duplication Options
+- Adding Objects
+- Transform Pivot
+- Transform Orientation
+- Adjust Object Origin
+- Basic Snap Menu Stuff? Yea.
+[Video Walk-Thru: - Coming Soon!]
+
+Options for Selection:
+- 
+Things to Cover:
+- 
+[Video Walk-Thru: - Coming Soon!]
+__________________________________________

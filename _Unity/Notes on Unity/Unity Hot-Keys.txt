@@ -1,0 +1,148 @@
+__________________________________________
+
+UNITY KEYS:
+__________________________________________
+
+General Hotkeys:
+
+File Management:
+Save File - Ctrl S
+Save As - Ctrl Shift S
+
+Selecting Options:
+Select All - Ctrl A
+De-Select All - Alt A
+Invert Selection - Ctrl I
+Click Select - Left Click
+Toggle Select - Shift Left Click
+Box Set Select - Left Click Drag
+Box Add Select - Shift Left Click Drag
+Box Subtract Select - Ctrl Left Click Drag
+( Prefab Object ) Select Prefab Root - Ctrl G
+Select Children - Shift G
+
+Navigation Options:
+Frame Selected - F
+Rotate View - Alt Left Click Drag
+Pan View - Middle Click Drag
+Fast-Pan - Shift Middle Click Drag
+Zoom View - Alt Right Click Drag
+Zoom View - Scroll Wheel
+Align to Selected - Alt R
+Trackball - Right Click Drag
+/-[3D Viewport Fly Controls]-\
+|      Fly  Forward - W      |
+|      Fly Backward - S      |
+|      Fly     Left - A      |
+|      Fly    Right - D      |
+|      Fly       Up - E      |
+|      Fly     Dowm - Q      |
+\--[While Right Click Held]--/
+
+Transformation Options:
+Move to View - Alt F
+Set Tool Hand - Q
+Set Tool Move - W
+Set Tool Rotate - E
+Set Tool Scale - R
+Set Tool Rect - T
+Toggle Snap - X
+Vertex Snapping - Hold V
+Toggle Vertex Snapping - Shift V
+Toggle Pivot Orientation - , [Comma]
+Toggle Pivot Position - . [Period]
+Align to Scene View - Ctrl Numpad 0
+
+3D View Options:
+Hide Selected - H
+- Only Parent - Ctrl H
+Un-Hide All - Alt H
+Toggle Isolate - Shift H
+Toggle Full View - Spacebar
+Lock View to Selected - Shift F
+Toggle Ortho/Persp - Numpad 5
+Ortho Front - Numpad 1
+Ortho Left - Numpad 3
+Ortho Top - Numpad 7
+Ortho Back - Numpad 9
+Ortho Right - Numpad 6
+Ortho Bottom - Numpad 2
+Persp Front - Ctrl Numpad 1
+Persp Left - Ctrl Numpad 3
+Persp Top - Ctrl Numpad 7
+Persp Back - Ctrl Numpad 9
+Persp Right - Ctrl Numpad 6
+Persp Bottom - Ctrl Numpad 2
+
+Global Editing Options:
+Delete Selection - Delete
+Undo - Ctrl Z, Redo - Ctrl Y
+Grid & Snap Menu - S
+Rename Active Item - F2
+Copy Object - Ctrl C, Paste Object - Ctrl V
+Paste Object as Child - Ctrl Shift V
+Duplicate Object - Shift D
+Create Empty Object - Shift A
+Create Empty Child - Ctrl Shift A
+Create Empty Parent - Alt Shift A
+Parent Object - Ctrl P
+Un-Parent Object - Alt P
+Toggle Object Active - Shift Tab
+Add Component - Shift C
+
+Interface:
+Toggle Play - ]
+Toggle Pause - \
+- Step - Backspace
+Build & Run - Ctrl B
+Build Settings - Shift B
+Hierarchy Window - `
+Scene View - 2
+Game View - 3
+Console Window - 4
+Package Manager - 5
+Prefrences Window - 6
+Project Settings - 7
+Profiler Window - 8
+Lighting Window - 9
+Inspector Window - 0
+Graphics Tier 1 - Shift 1
+Graphics Tier 2 - Shift 2
+Graphics Tier 3 - Shift 3
+Open Properties Pop-Up - N
+Open Scene - Shift O
+
+Grid Stuff:
+Reset Grid - Alt G
+Grow Grid Size - Ctrl ]
+Shrink Grid Size - Ctrl [
+Move Grid Forward - Shift ]
+Move Grid Backward - Shift [
+Push onto Grid - Ctrl \
+
+Asset Managment:
+Create Scene - Alt N
+Create C# Script - Alt S
+Create Prefab - Alt Shift G
+- Prefab Variant - Ctrl Alt G
+Extract Prefab - Ctrl Shift G
+Create Folder - Ctrl Alt Shift A
+Focus Type Search - Ctrl F
+Refresh Selection - Ctrl R
+Find Refrences in Scene - Ctrl Shift F
+
+Particle System:
+Play Particle System - Ctrl .
+Stop Particle System - Ctrl ,
+Restart Particle System - Ctrl /
+Step Particle System Forward - ;
+Step Particle System Backward - '
+
+__________________________________________________
+
+__________________________________________
+
+New Hotkeys:
+- 
+
+__________________________________________

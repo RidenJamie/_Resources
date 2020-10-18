@@ -1,0 +1,29 @@
+__________________________________________
+
+Enabled Addons:
+________________________
+
+Built-In:
+- Editor Coroutines
+- Mathematics
+- Post Processing
+
+Downloaded:
+
+Free:
+- Simple SSAO
+- Persistent Components
+- FMOD for Unity
+
+________________________
+
+Paid: (Not Essential)
+- Grabbit
+- Obi Rope
+- Obi Cloth
+- Obi Fluid
+- Obi Softbody
+- Play Mode Save
+- Filo Cable Simulator
+
+__________________________________________

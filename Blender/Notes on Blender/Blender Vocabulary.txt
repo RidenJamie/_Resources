@@ -1,0 +1,20 @@
+__________________________________________________
+
+Blender Vocabulary:
+
+- 3D ViewPort
+~ area that shows the 3D scene.
+
+- Object Origin 
+~ represents the object's position,
+~ & where transformations occur from.
+
+- Transform Pivot Point
+~ point in 3D space where 
+~ transformations occur from.
+
+- Orientation (local, global, normal, ect.)
+~ refers to a relative direction in 3D space.
+
+[Coming Soon!]
+__________________________________________________

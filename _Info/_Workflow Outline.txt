@@ -1,0 +1,45 @@
+__________________________________________
+
+An Everchanging Pipeline of Production:
+____________________________________
+
+Develpoing Ideas & Inspiration:
+- think of things you enjoy.
+- how can you share that?
+- what things fascinate you?
+- try to relay that feeling.
+
+3D Game-Asset Creation:
+
+- Modeling in "Blender"
+~ 
+~ Find Refrences.
+~ Model in Blender.
+~ 
+
+- Sculpting in "Blender"
+~ from scratch:
+= 
+~ surface details:
+= 
+
+- Retopology in "Rocket 3F"
+~ 
+
+- UV Un-Wrapping in "Blender"
+~ 
+
+- Texturing in "Substance Painter"
+~ 
+
+- Developing Shaders in "???" :-o ??
+~ 
+
+- Real-Time Rendering in "Unity 3D"
+~ 
+
+[ Coming Soon, -ish! ]
+____________________________________
+
+
+__________________________________________

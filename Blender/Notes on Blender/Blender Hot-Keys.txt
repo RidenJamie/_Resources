@@ -1,0 +1,242 @@
+__________________________________________
+
+General Hotkeys:
+
+File Management:
+Save File - Ctrl S
+
+Selecting Options:
+Toggle Select All - A
+De-Select All - Alt A
+Invert Selection - Ctrl I
+Click Select - Right Click
+Toggle Select - Shift Right Click
+Box Set Select - Left Click Drag
+Box Add Select - Shift Left Click Drag
+Box Subtract Select - Ctrl Left Click Drag
+Box Subtract Select - Middle Click Drag
+Circle Selection Tool - C [Exit w/ Enter]
+Select Parent Object - [ Select Child Object - ]
+Add Parent Object to Selection - Shift [
+Add Child Object to Selection - Shift ]
+(In Outliner) Select Heirarchy - Shift G
+(Object Mode) Select Children - Shift G
+(Object Mode) Select Parents - Ctrl G
+
+Navigation Options:
+Frame Selected - F
+Rotate View - Alt Middle Click Drag
+Pan View - Shift Middle Click Drag
+Pan View - Shift Alt Middle Click Drag
+Zoom View - Ctrl Middle Click Drag
+Zoom View - Scroll Wheel
+
+Transformation Options:
+Set Tool Select - Q
+Set Tool Move - W
+Set Tool Rotate - E
+Set Tool Scale - R
+Move Selected - Shift W
+Rotate Selected - Shift E
+Scale Selected - Shift R
+Selected To Sphere - Alt S
+Clear Translation - Shift Ctrl W
+Clear Rotation - Shift Ctrl E
+Clear Scale - Shift Ctrl R
+Zero Out "Apply" Menu - Ctrl A
+Gizmo Orientation Menu - , [Comma]
+Gizmo Pivot Point Menu - . [Period]
+
+3D View Options:
+Hide Selected - H
+Un-Hide All - Alt H
+Ortho Front - Numpad 1
+Ortho Left - Numpad 3
+Ortho Top - Numpad 7
+Flip View - Numpad 9
+Toggle Ortho/Persp - Numpad 5
+Toggle Quad View - Ctrl Spacebar
+Rotate View - Numpad 2, 4, 6, 8
+Toggle X-Ray View - 4
+Toggle Solid View - 5
+Toggle Material View - 6
+Toggle Rendered View - 7
+Toggle Left Tool Tray - T
+Toggle Right Tool Tray - N
+Toggle Full View - Spacebar
+Full View [No Panels] - Alt Spacebar
+Shade Selected Flat - Shift F
+Shade Selected Smooth - Shift S
+Increase Selected Sub-Div - Ctrl ` [Tilde]
+Decrease Selected Sub-Div - Ctrl Tab
+Toggle View Statistics - Shift Alt D
+Toggle View Info - Shift Alt A
+Toggle 3D Overlays - Alt O
+Toggle Ortho Grid - Alt G
+Toggle Persp Grid - Alt F
+Toggle 3D Cursor - Shift Ctrl S
+Toggle View Origins - Shift Ctrl A
+Toggle Fullscreen - Shift Ctrl Alt A
+
+Global Editing Options:
+Delete Selection - Delete
+Undo - Ctrl Z, Redo - Ctrl Y
+Set 3D Cursor - Shift Left Click
+Add Selected to a Group - Ctrl G
+Select All in Group - Shift G
+Toggle Snap - X, Snap Menu - S
+Snap Menu (Full) - Shift Ctrl /
+Snap "With" Menu - Shift /
+Snap "To" Menu - Ctrl /
+Snap Toggle Align - /
+Clear/Leave Tool - Escape
+Rename Active Item - F2
+3D View Object Mode - Tab Q
+3D View Edit Mode - Tab
+Armature Pose Mode - Shift Tab
+Mesh Weight Paint Mode - Alt W
+Copy Object - Ctrl C, Paste Object - Ctrl V
+Add Object - Shift A, Duplicate Object - Shift D
+Armature Rest Position - Alt , [Comma]
+Armature Pose Position - Alt . [Period]
+__________________________________________________
+
+Modeling Hotkeys:
+
+Object Mode Options:
+Join Objects - Ctrl J
+Set Origin Menu - Ctrl O
+"Instance" Object - Alt D
+Link Objects Menu - Ctrl L
+Transfer/Link Data - Ctrl L
+Select Linked Objects - Shift L
+Duplicate Object - Shift D
+Parent Object Menu - Ctrl P
+Un-Parent Object Menu - Alt P
+Convert Mesh to Curve - Alt C
+Convert Curve to Mesh - Alt N
+Toggle Transform Pivot - Ctrl . [Period]
+
+Mesh Select Options:
+Vertex Select Mode - 1
+Edge Select Mode - 2
+Face Select Mode - 3
+Select Loop - Alt Right Click
+Toggle Select Loop - Shift Alt Right Click
+Select Edge Ring - Ctrl Alt Right Click
+Select Between - Ctrl Right Click
+Grow Selection - Ctrl ], Shrink Selection - Ctrl [
+
+Mesh Edit Options:
+Loop Cut - Ctrl R
+Extrude On Normals - Shift X
+Join Selected Verticies - J
+Merge Verticies Menu - Shift M
+Selected To Sphere - Alt S
+Kinfe Tool - K
+Poke Faces - Y
+/-------------------\
+|Inset Faces - I ____\
+|Toggle Outset - O    \
+|Toggle Boundaries - B |
+|Toggle Individual - I |
+|Control Depth - Ctrl  |
+\----------------------/
+Bevel Edges - Ctrl B
+Bridge Edge Loops - Alt B
+Bevel Verticies - Ctrl Alt B
+Make Edge/Face - Ctrl F
+Flip Face Normals - Alt N
+Recalculate Normals - Shift N
+Toggle View Normals - Shift Ctrl D
+Split Selection - Alt V
+Rip Selection - Alt X
+Slide Edge - Ctrl E
+Shrink/Fatten - Alt E
+Slide Vertex/Verticies - Ctrl V
+Duplicate Selected Mesh - Shift D
+Call Vertex Menu - Shift Ctrl V
+Call Edge Menu - Shift Ctrl E
+Call Face Menu - Shift Ctrl F
+Separate Meshes Menu - P
+
+
+Clean-Up Tool Options:
+Merge By Distance - Shift Ctrl C
+Delete Loose - Shift Ctrl X
+Fill Holes - Shift Ctrl Z
+__________________________________________________
+
+UV Unwrapping Hotkeys:
+
+Mesh Edit Options:
+UV Unwrap Menu - U
+Mark Edge Seam - Alt M
+Clear Edge Seam - Ctrl M
+
+UV Editor Options:
+- 
+__________________________________________________
+
+Rigging Hotkeys:
+
+Mesh Edit Options:
+Make "Cluster" - Ctrl Alt C
+
+Bone Edit Options:
+Bone Display Menu - Shift Ctrl D
+Make Parent Menu - Ctrl P
+Disconnect Menu - Alt P
+Extrude Bone - Shift X
+Fill Between - Ctrl F
+Roll Bone - Ctrl R
+Clear Roll - Alt R
+Re-Calc Roll - Alt N
+Align Bones - Ctrl Alt A
+Separate Bones - P
+Flip Bone Direction - Shift F
+Click Extrude - Ctrl Left Click
+Select Between - Ctrl Right Click
+
+Pose Mode Options:
+Set Rotation Mode Menu - Ctrl R
+
+Driver Options:
+Add Driver to Attribute - Ctrl D
+Edit Attribute Driver - Alt D
+Copy Attribute Driver - Shift D
+Paste Attribute Driver - Shift Ctrl D
+Remove Attribute Driver - Shift Alt D
+
+Driver Editor Options:
+- 
+
+Mesh Weight Paint Options:
+- 
+__________________________________________________
+
+Animation Hotkeys:
+
+Keyframe Options:
+Insert Keyframe Menu - I
+Delete Current Keyframe - Alt I
+Clear All Keyframes - Shift Alt I
+Key Attribute on Mouse Hover - Shift K
+Delete Current Attribute Key - Alt K
+Clear Attribute Keys - Shift Ctrl K
+
+Graph Editor Options:
+- 
+
+Camera Options:
+Toggle Camera View - Numpad 0
+Align Camera to View - Ctrl Numpad 0
+Toggle Adjust Camera View - Shift Numpad 0
+
+3D View Render Options:
+Viewport Render - F12
+Playpack Render - F11
+__________________________________________________
+
+New Hotkeys:
+

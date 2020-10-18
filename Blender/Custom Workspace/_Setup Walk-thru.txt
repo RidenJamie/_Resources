@@ -1,0 +1,16 @@
+__________________________________________
+
+Blender Custom Workspace:
+
+How to Setup:
+- 
+Things to Cover:
+- Download the Program
+- Download the Workspace
+- Create a Blender Folder
+- Place Pref/Startup files
+- Import the Key Config.py
+- Download any Free Addons
+[Video Walk-Thru: - Coming Soon!]
+
+__________________________________________

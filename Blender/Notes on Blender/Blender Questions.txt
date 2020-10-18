@@ -1,0 +1,18 @@
+__________________________________________
+
+Common Questions:
+
+Q: Is there a Quad-View?
+A: Yes! In 3D Viwport, "View" Menu,
+   in the bottom fold-out tab, "Area",
+   the first option, "Toggle Quad-View".
+[Video Clip: - Coming Soon!]
+
+Q: Does Blender Have BlendShapes? 
+A: Yes. They call them "Shape Keys".
+
+Q: Does Blender have Set-Driven Keys? (Like in Maya)
+A: Yes! Kinda. "Action Constraints"
+               & "Property Drivers".
+[Video Clip: - Coming Soon!]
+__________________________________________

@@ -1,0 +1,34 @@
+__________________________________________
+
+Enabled Addons:
+
+Built-In:
+- MeasureIt
+- Stored Views
+- Extra Objects
+- FBX Format
+- SVG Format
+- UV Layout
+- OBJ Format
+- 3D Print Toolbox
+- LoopTools
+- Bool Tool
+- Cycles Render Engine
+
+Downloaded:
+
+Free:
+- Tube Tool
+- Screencast Keys
+
+________________________
+|                       |
+| Paid: (Not Essential) |
+|                       |
+| - Hard Ops = $15?     |
+|                       |
+| - BoxCutter = $15?    |
+|                       |
+| - MeshMachine = $30?  |
+|_______________________|
+__________________________________________

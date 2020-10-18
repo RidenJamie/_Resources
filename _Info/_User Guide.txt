@@ -1,0 +1,124 @@
+__________________________________________
+
+An Explaination of "_Resources": [Needs Updated]
+____________________________________
+
+The "Blender" Folder:
+___________________
+|                  |
+| Video Walk-Thru: |
+| - Coming Soon!   |
+|__________________|
+
+"Custom Workspace" Folder:
+
+- "_Setup Walk-thru.txt"
+~ explains how to use
+~ the workspace files.
+
+- "Blender Key Config.py"
+~ an Exported replica of
+~ the exact Keymap I use.
+
+- "Startup File.blend"
+~ a digital-copy of a growing
+~ Blender Workspace, refocused
+~ by someone from a background
+~ using 3Ds Max, Modo, & Maya.
+
+- "Startup File.blend1"
+~ not sure if it's needed
+~ to load the ".bled" file
+~ properly, but here it is.
+
+The "Notes on Blender" Folder:
+
+- "_Intro to Blender.txt"
+~ Explains the basics of Blender.
+~ Basic Navigations, Selections,
+~ & other things to orient you.
+
+- "Blender Add-Ons.txt"
+~ a list of the Enabled Add-Ons
+~ & free/paid, downloaded Add-Ons.
+
+- "Blender Hot-Keys.txt"
+~ a list of all the Hot-keys in 
+~ the "Blender Key Config" file,
+~ organized by context/processes.
+
+- "Blender Processes.txt"
+~ step-by-step outlines
+~ of different processes
+~ that I use in Blender.
+
+- "Blender Questions.txt"
+~ a list of questions I've had
+~ about Blender, after already
+~ using 3Ds Max, Modo, & Maya.
+~ & their answers, if found.
+
+- "Blender Vocabulary.txt"
+~ defines various terms refrenced
+~ throughout these note sections.
+
+____________________________________
+
+____________________________________
+
+The "Unity" Folder:
+___________________
+|                  |
+| Video Walk-Thru: |
+| - Coming Soon!   |
+|__________________|
+
+"Custom Workspace" Folder:
+
+- "_Setup Walk-thru.txt"
+~ explains how to use
+~ the workspace files. 
+
+- "_New Unity Project.zip"
+~ a digital-copy of the
+~ Unity workspace I use.
+
+- "Custom.shortcut"
+~ Customized Unity Hotkey Preset.
+~ place in "C:\Users\"YourUserName"\
+              AppData\Roaming\Unity\
+             Editor-5.x\Preferences\
+                  shortcuts\default\"
+~ switch to in the Shortcuts Manager.
+
+- "Layout_.wlt"
+~ Customized Unity Window Layout.
+~ place in "C:\Users\"YourUserName"\
+              AppData\Roaming\Unity\
+             Editor-5.x\Preferences\
+                    Layouts\default\"
+~ switch to the layout in the editor.
+
+"Notes on Unity" Folder:
+
+- "_Intro to Unity.txt"
+~ not yet filled in.
+
+- "Unity Add-Ons.txt"
+~ not yet filled in.
+
+- "Unity Hot-Keys.txt"
+~ not yet filled in.
+
+- "Unity Processes.txt"
+~ not yet filled in.
+
+- "Unity Questions.txt"
+~ not yet filled in.
+
+- "Unity Vocabulary.txt"
+~ not yet filled in.
+
+____________________________________
+
+__________________________________________

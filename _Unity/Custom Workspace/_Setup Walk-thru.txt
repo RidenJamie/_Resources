@@ -1,0 +1,16 @@
+__________________________________________
+
+Unity Custom Workspace:
+
+How to Setup:
+- 
+Things to Cover:
+- Download the Program
+- Download the Workspace
+- Unzip/Open the Project
+- Place the Shortcut file
+- Import the Layout_ file
+- Download any Free Addons
+[Video Walk-Thru: - Coming Soon!]
+
+__________________________________________
