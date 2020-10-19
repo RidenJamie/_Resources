@@ -1,0 +1,71 @@
+Blender Hotkeys:
+
+Seleting Options:
+Select w/ Right Click
+Box Set Select - Left Click Drag
+Box Add Select - Shift Left Click Drag
+Box Subtract Select - Ctrl Left Click Drag
+Box Subtract Select - Middle Click Drag
+Grow Selection - Ctrl ], Shrink Selection - Ctrl [
+
+Navigation Options:
+Frame Selected - F
+Rotate View - Alt Middle Click Drag
+Pan View - Shift Middle Click Drag
+Pan View - Shift Alt Middle Click Drag
+
+Transformation Options:
+Move Selected - Shift W
+Rotate Selected - Shift E
+Scale Selected - Shift R
+Selected To Sphere - Alt S
+Clear Translation - Shift Ctrl W
+Clear Rotation - Shift Ctrl E
+Clear Scale - Shift Ctrl R
+
+Viewing Options:
+Toggle X-Ray View - 4
+Toggle Solid View - 5
+Toggle Material View - 6
+Toggle Rendered View - 7
+Toggle Full View - Spacebar
+Shade Selected Flat - Shift F
+Shade Selected Smooth - Shift S
+Increase Selected Sub-Div - Ctrl `
+Decrease Selected Sub-Div - Ctrl Tab
+Toggle Ortho Grid - Alt G
+Toggle Persp Grid - Alt F
+Toggle 3D Cursor - Shift Crtl S
+Toggle View Origins - Shift Crtl A
+Toggle Fullscreen - Shift Ctrl Alt A
+
+Global Editing Options:
+Undo - Ctrl Z, Redo - Ctrl Y
+Set 3D Cursor - Shift Left Click
+Toggle Snap - X, Snap Menu - S
+Toggle Object/Edit Mode - Tab
+Set Tool Select - Q
+Set Tool Move - W
+Set Tool Rotate - E
+Set Tool Scale - R
+
+Object Editing Options:
+Set Origin Menu - Shift Ctrl O
+
+Mesh Editing Options:
+Select Loop - Alt Right Click
+Extrude On Normals - Shift X
+Bevel Edges - Ctrl B
+Bridge Edge Loops - Alt B
+Bevel Verticies - Ctrl Alt B
+Select Between - Ctrl Right Click
+Make Edge/Face - Ctrl F
+Slide Edge - Ctrl E
+Slide Vertex/Verticies - Ctrl V
+Call Vertex Menu - Shift Ctrl V
+Call Edge Menu - Shift Ctrl E
+Call Face Menu - Shift Ctrl F
+Merge By Distance - Shift Ctrl C
+Delete Loose - Shift Ctrl X
+Fill Holes - Shift Ctrl Z
+__________________________________________________
