@@ -1,18 +1,20 @@
 Blender Hotkeys:
 
 Seleting Options:
-Select w/ Right Click
+Toggle Select All - A
+Click Select - Right Click
 Box Set Select - Left Click Drag
 Box Add Select - Shift Left Click Drag
 Box Subtract Select - Ctrl Left Click Drag
 Box Subtract Select - Middle Click Drag
-Grow Selection - Ctrl ], Shrink Selection - Ctrl [
 
 Navigation Options:
 Frame Selected - F
 Rotate View - Alt Middle Click Drag
 Pan View - Shift Middle Click Drag
 Pan View - Shift Alt Middle Click Drag
+Zoom View - Scroll Wheel
+Zoom View - Ctrl Middle Click Drag
 
 Transformation Options:
 Move Selected - Shift W
@@ -24,10 +26,18 @@ Clear Rotation - Shift Ctrl E
 Clear Scale - Shift Ctrl R
 
 Viewing Options:
+Ortho Front - Numpad 1
+Ortho Right - Numpad 3
+Ortho Top - Numpad 7
+Flip View - Numpad 9
+Toggle Persp - Numpad 5
+Rotate View - Numpad 2, 4, 6, 8
 Toggle X-Ray View - 4
 Toggle Solid View - 5
 Toggle Material View - 6
 Toggle Rendered View - 7
+Toggle Left Tool Tray - T
+Toggle Right Tool Tray - N
 Toggle Full View - Spacebar
 Shade Selected Flat - Shift F
 Shade Selected Smooth - Shift S
@@ -48,17 +58,25 @@ Set Tool Select - Q
 Set Tool Move - W
 Set Tool Rotate - E
 Set Tool Scale - R
+Add Object - Shift A
+Clear/Leave Tool - Escape
 
 Object Editing Options:
 Set Origin Menu - Shift Ctrl O
 
-Mesh Editing Options:
+Mesh Selecting Options:
 Select Loop - Alt Right Click
+Select Between - Ctrl Right Click
+Grow Selection - Ctrl ], Shrink Selection - Ctrl [
+
+Mesh Editing Options:
+Loop Cut - Ctrl R
 Extrude On Normals - Shift X
+Join Selected Verticies - J
+Kinfe Tool - K
 Bevel Edges - Ctrl B
 Bridge Edge Loops - Alt B
 Bevel Verticies - Ctrl Alt B
-Select Between - Ctrl Right Click
 Make Edge/Face - Ctrl F
 Slide Edge - Ctrl E
 Slide Vertex/Verticies - Ctrl V

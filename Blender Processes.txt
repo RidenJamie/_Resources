@@ -1,0 +1,23 @@
+Blender Processes:
+
+Add Image Refrence:
+- Rotate View to Match Refrence
+- Switch to Object Mode in Viewport
+- Select 'Orthos' Collection in Outliner
+- w/ Mouse over Viewport, Press 'Shift A',
+- Add an 'Image->Refrence' Object to Scene
+- Locate the Image Refrence File to Import
+- In Outliner, 'Double Click' Image Refrence,
+- Re-Name Image Refrence to Match View Name
+- Go to Properties Tab, Under Object Data,
+- Set Depth, Side, Display & Transparency
+- Adjust Image Transform in the Viewport
+- Disable Selection of Image In Outliner
+
+
+Mirror Mesh:
+- In Edit Mode, Select Unwanted Mesh Half
+- Delete Vertecies, Keep Middle Verticies
+- 
+
+__________________________________________
