@@ -1,4 +1,13 @@
-Blender Processes:
+__________________________________________
+
+Modeling Processes:
+
+Types of Modeling:
+- "Box"-Modeling
+- "Non"-Destructive
+
+Basic Modeling Steps:
+- 
 
 Add Image Refrence:
 - Rotate View to Match Refrence
@@ -14,10 +23,47 @@ Add Image Refrence:
 - Adjust Image Transform in the Viewport
 - Disable Selection of Image In Outliner
 
-
 Mirror Mesh:
 - In Edit Mode, Select Unwanted Mesh Half
 - Delete Vertecies, Keep Middle Verticies
 - 
-
 __________________________________________
+
+UV Unwrapping Processes:
+
+Basic UV Unwrapping Steps:
+- 
+__________________________________________
+
+Rigging Processes:
+
+Types of Rigging:
+- Hard-Surface
+- Soft-Body
+- Character
+- Facial
+
+Basic Rigging Steps:
+- Create Armature/Bones
+- Parent Mesh to Armature
+- Set Desired Vertex Weights
+
+Add Armature to Mesh:
+- 
+
+Setting Vertex Weights:
+- 
+__________________________________________
+
+Sculpting Processes:
+
+Types of Sculpting:
+- for Static Meshes
+- for Texture Maps
+
+Basic Sculpting Steps:
+-
+__________________________________________
+
+Video Editing Processes:
+__________________________________________________

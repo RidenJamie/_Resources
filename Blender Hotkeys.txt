@@ -1,4 +1,6 @@
-Blender Hotkeys:
+__________________________________________
+
+General Hotkeys:
 
 Seleting Options:
 Toggle Select All - A
@@ -24,13 +26,14 @@ Selected To Sphere - Alt S
 Clear Translation - Shift Ctrl W
 Clear Rotation - Shift Ctrl E
 Clear Scale - Shift Ctrl R
+Zero Out "Apply" Menu - Ctrl A
 
-Viewing Options:
+3D View Options:
 Ortho Front - Numpad 1
-Ortho Right - Numpad 3
+Ortho Left - Numpad 3
 Ortho Top - Numpad 7
 Flip View - Numpad 9
-Toggle Persp - Numpad 5
+Toggle Ortho/Persp - Numpad 5
 Rotate View - Numpad 2, 4, 6, 8
 Toggle X-Ray View - 4
 Toggle Solid View - 5
@@ -53,16 +56,29 @@ Global Editing Options:
 Undo - Ctrl Z, Redo - Ctrl Y
 Set 3D Cursor - Shift Left Click
 Toggle Snap - X, Snap Menu - S
-Toggle Object/Edit Mode - Tab
-Set Tool Select - Q
-Set Tool Move - W
-Set Tool Rotate - E
-Set Tool Scale - R
-Add Object - Shift A
 Clear/Leave Tool - Escape
+3D View Object Mode - Tab Q
+3D View Edit Mode - Tab
+Armature Pose Mode - Shift Tab
+Mesh Weight Paint Mode - Alt W
+/----------------------------\
+|Set Tool Select - Q         |
+|Set Tool Move - W           |
+|Set Tool Rotate - E         |
+|Set Tool Scale - R          |
+\-[Except Mesh Weight Paint]-/
+Copy Object - Ctrl C, Paste Object - Ctrl V
+Add Object - Shift A, Duplicate Object - Shift D
 
 Object Editing Options:
-Set Origin Menu - Shift Ctrl O
+Join Objects - Ctrl J
+Set Origin Menu - Ctrl O
+"Instance" Object - Alt D
+Parent Object Menu - Ctrl P
+Un-Parent Object Menu - Alt P
+__________________________________________________
+
+Modeling Hotkeys:
 
 Mesh Selecting Options:
 Select Loop - Alt Right Click
@@ -73,6 +89,7 @@ Mesh Editing Options:
 Loop Cut - Ctrl R
 Extrude On Normals - Shift X
 Join Selected Verticies - J
+Selected To Sphere - Alt S
 Kinfe Tool - K
 Bevel Edges - Ctrl B
 Bridge Edge Loops - Alt B
@@ -86,4 +103,24 @@ Call Face Menu - Shift Ctrl F
 Merge By Distance - Shift Ctrl C
 Delete Loose - Shift Ctrl X
 Fill Holes - Shift Ctrl Z
+__________________________________________________
+
+UV Unwrapping Hotkeys:
+__________________________________________________
+
+Rigging Hotkeys:
+
+Mesh Weight Paint Options:
+Set Tool Draw - Q
+Set Tool Blur - W
+Set Tool Average - E
+Set Tool Smear - R
+Shrink Brush - [, Grow Brush - ]
+Set Paint Weight - Shift F Drag
+__________________________________________________
+
+Sculpting Hotkeys:
+__________________________________________________
+
+Video Editing Hotkeys:
 __________________________________________________
