@@ -70,25 +70,27 @@ Mesh Weight Paint Mode - Alt W
 Copy Object - Ctrl C, Paste Object - Ctrl V
 Add Object - Shift A, Duplicate Object - Shift D
 
-Object Editing Options:
+__________________________________________________
+
+Modeling Hotkeys:
+
+Object Mode Options:
 Join Objects - Ctrl J
 Set Origin Menu - Ctrl O
 "Instance" Object - Alt D
 Parent Object Menu - Ctrl P
 Un-Parent Object Menu - Alt P
-__________________________________________________
 
-Modeling Hotkeys:
-
-Mesh Selecting Options:
+Mesh Select Options:
 Select Loop - Alt Right Click
 Select Between - Ctrl Right Click
 Grow Selection - Ctrl ], Shrink Selection - Ctrl [
 
-Mesh Editing Options:
+Edit Mode Options:
 Loop Cut - Ctrl R
 Extrude On Normals - Shift X
 Join Selected Verticies - J
+Call Merge Verticies Menu - Shift M
 Selected To Sphere - Alt S
 Kinfe Tool - K
 Bevel Edges - Ctrl B
@@ -106,9 +108,24 @@ Fill Holes - Shift Ctrl Z
 __________________________________________________
 
 UV Unwrapping Hotkeys:
+
+Edit Mode Options:
+Call UV Menu - U
+Mark Edge Seam - Alt M
+Clear Edge Seam - Ctrl M
+
+UV Editor Options:
+Stitch Islands - V
+Pack Islands - Alt P
+Merge at Center - Alt W
 __________________________________________________
 
 Rigging Hotkeys:
+
+Bone Edit Options:
+Make Parent Menu - Ctrl P
+Disconnect Menu - Alt P
+Extrude Bone - Shift X
 
 Mesh Weight Paint Options:
 Set Tool Draw - Q
