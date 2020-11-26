@@ -23,6 +23,7 @@ Add Image Refrence:
 - Adjust Image Transform in the Viewport
 - Disable Selection of Image In Outliner
 
+
 Mirror Mesh:
 - In Edit Mode, Select Unwanted Mesh Half
 - Delete Vertecies, Keep Middle Verticies

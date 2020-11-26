@@ -2,6 +2,9 @@ __________________________________________
 
 General Hotkeys:
 
+File Management:
+Save File - Ctrl S
+
 Seleting Options:
 Toggle Select All - A
 Click Select - Right Click
@@ -34,6 +37,7 @@ Ortho Left - Numpad 3
 Ortho Top - Numpad 7
 Flip View - Numpad 9
 Toggle Ortho/Persp - Numpad 5
+Toggle Quad View - Ctrl Spacebar
 Rotate View - Numpad 2, 4, 6, 8
 Toggle X-Ray View - 4
 Toggle Solid View - 5
@@ -46,6 +50,7 @@ Shade Selected Flat - Shift F
 Shade Selected Smooth - Shift S
 Increase Selected Sub-Div - Ctrl `
 Decrease Selected Sub-Div - Ctrl Tab
+Toggle 3D Overlays - Alt O
 Toggle Ortho Grid - Alt G
 Toggle Persp Grid - Alt F
 Toggle 3D Cursor - Shift Crtl S
@@ -57,6 +62,7 @@ Undo - Ctrl Z, Redo - Ctrl Y
 Set 3D Cursor - Shift Left Click
 Toggle Snap - X, Snap Menu - S
 Clear/Leave Tool - Escape
+Rename Active Item - F2
 3D View Object Mode - Tab Q
 3D View Edit Mode - Tab
 Armature Pose Mode - Shift Tab
@@ -97,8 +103,11 @@ Bevel Edges - Ctrl B
 Bridge Edge Loops - Alt B
 Bevel Verticies - Ctrl Alt B
 Make Edge/Face - Ctrl F
+Flip Face Normals - Alt N
+Recalculate Normals - Shift N
 Slide Edge - Ctrl E
 Slide Vertex/Verticies - Ctrl V
+Duplicate Selected Mesh - Shift D
 Call Vertex Menu - Shift Ctrl V
 Call Edge Menu - Shift Ctrl E
 Call Face Menu - Shift Ctrl F
