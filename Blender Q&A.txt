@@ -4,10 +4,12 @@ Common Questions:
 
 Q: Is there a Quad-View?
 A: Yessir! via-Hotkey..
+[Video Clip: - Coming Soon!]
 
 Q: Does Blender Have BlendShapes? 
 A: Yes. They call them "Shape Keys"
 
 Q: Does Blender have Set-Driven Keys? (Like in Maya)
 A: Yes! Kinda. "Action Constraints" & "Property Drivers"
+[Video Clip: - Coming Soon!]
 __________________________________________

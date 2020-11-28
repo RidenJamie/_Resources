@@ -1,0 +1,24 @@
+__________________________________________
+
+How To Use These Resources:
+
+Blender Q&A.txt:
+- 
+[Video Walk-Thru: - Coming Soon!]
+
+Blender Processes.txt:
+- 
+[Video Walk-Thru: - Coming Soon!]
+
+Startup File.blend:
+- 
+[Video Walk-Thru: - Coming Soon!]
+
+Blender Key Config.py:
+- 
+[Video Walk-Thru: - Coming Soon!]
+
+Blender Hotkeys.txt:
+- 
+[Video Walk-Thru: - Coming Soon!]
+__________________________________________

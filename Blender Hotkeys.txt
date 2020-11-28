@@ -16,10 +16,10 @@ Box Add Select - Shift Left Click Drag
 Box Subtract Select - Ctrl Left Click Drag
 Box Subtract Select - Middle Click Drag
 Circle Selection Tool - C [Exit w/ Enter]
-
 Select Parent Object - [ Select Child Object - ]
 Add Parent Object to Selection - Shift [
 Add Child Object to Selection - Shift ]
+[Video Walk-Thru: - Coming Soon!]
 
 Navigation Options:
 Frame Selected - F
@@ -28,6 +28,7 @@ Pan View - Shift Middle Click Drag
 Pan View - Shift Alt Middle Click Drag
 Zoom View - Ctrl Middle Click Drag
 Zoom View - Scroll Wheel
+[Video Walk-Thru: - Coming Soon!]
 
 Transformation Options:
 Move Selected - Shift W
@@ -40,6 +41,7 @@ Clear Scale - Shift Ctrl R
 Zero Out "Apply" Menu - Ctrl A
 Gizmo Orientation Menu - , [Comma]
 Gizmo Pivot Point Menu - . [Period]
+[Video Walk-Thru: - Coming Soon!]
 
 3D View Options:
 Hide Selected - H
@@ -69,6 +71,7 @@ Toggle Persp Grid - Alt F
 Toggle 3D Cursor - Shift Crtl S
 Toggle View Origins - Shift Crtl A
 Toggle Fullscreen - Shift Ctrl Alt A
+[Video Walk-Thru: - Coming Soon!]
 
 Global Editing Options:
 Delete Selection - Delete
@@ -96,6 +99,7 @@ Copy Object - Ctrl C, Paste Object - Ctrl V
 Add Object - Shift A, Duplicate Object - Shift D
 Armature Rest Position - Alt , [Comma]
 Armature Pose Position - Alt . [Period]
+[Video Walk-Thru: - Coming Soon!]
 __________________________________________________
 
 Modeling Hotkeys:
@@ -112,6 +116,7 @@ Un-Parent Object Menu - Alt P
 Convert Mesh to Curve - Alt C
 Convert Curve to Mesh - Alt N
 Toggle Transform Pivot - Ctrl . [Period]
+[Video Walk-Thru: - Coming Soon!]
 
 Mesh Select Options:
 Vertex Select Mode - 1
@@ -122,6 +127,7 @@ Toggle Select Loop - Shift Alt Right Click
 Select Edge Ring - Ctrl Alt Right Click
 Select Between - Ctrl Right Click
 Grow Selection - Ctrl ], Shrink Selection - Ctrl [
+[Video Walk-Thru: - Coming Soon!]
 
 Mesh Edit Options:
 Loop Cut - Ctrl R
@@ -146,6 +152,7 @@ Call Vertex Menu - Shift Ctrl V
 Call Edge Menu - Shift Ctrl E
 Call Face Menu - Shift Ctrl F
 Separate Meshes Menu - P
+[Video Walk-Thru: - Coming Soon!]
 
 Clean-Up Tool Options:
 Merge By Distance - Shift Ctrl C
@@ -161,7 +168,7 @@ Mark Edge Seam - Alt M
 Clear Edge Seam - Ctrl M
 
 UV Editor Options:
-- Udating Soon!
+- 
 __________________________________________________
 
 Rigging Hotkeys:
@@ -193,9 +200,10 @@ Edit Attribute Driver - Alt D
 Copy Attribute Driver - Shift D
 Paste Attribute Driver - Shift Ctrl D
 Remove Attribute Driver - Shift Alt D
+[Video Walk-Thru: - Coming Soon!]
 
 Mesh Weight Paint Options:
-- Udating Soon!
+- 
 __________________________________________________
 
 Animation Hotkeys:
@@ -209,7 +217,7 @@ Delete Current Attribute Key - Alt K
 Clear Attribute Keys - Shift Ctrl K
 
 Graph Editor Options:
-- Udating Soon!
+- 
 
 3D View Render Options:
 Viewport Render - F12
