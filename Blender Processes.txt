@@ -7,7 +7,7 @@ Types of Modeling:
 - "Non"-Destructive
 
 Basic Modeling Steps:
-- 
+- Udating Soon!
 
 Add Image Refrence:
 - Rotate View to Match Refrence
@@ -22,18 +22,19 @@ Add Image Refrence:
 - Set Depth, Side, Display & Transparency
 - Adjust Image Transform in the Viewport
 - Disable Selection of Image In Outliner
-
+Video Walk-Thru:
+- Coming Soon!
 
 Mirror Mesh:
 - In Edit Mode, Select Unwanted Mesh Half
 - Delete Vertecies, Keep Middle Verticies
-- 
+- Udating Soon!
 __________________________________________
 
 UV Unwrapping Processes:
 
 Basic UV Unwrapping Steps:
-- 
+- Udating Soon!
 __________________________________________
 
 Rigging Processes:
@@ -48,12 +49,22 @@ Basic Rigging Steps:
 - Create Armature/Bones
 - Parent Mesh to Armature
 - Set Desired Vertex Weights
+- Udating Soon!
 
-Add Armature to Mesh:
-- 
+Adding a Driver:
+- Udating Soon!
 
-Setting Vertex Weights:
-- 
+Making an Action:
+- Udating Soon!
+
+Action Constraints:
+- Udating Soon!
+__________________________________________
+
+Animation Processes:
+
+Basic Animation Steps:
+- Udating Soon!
 __________________________________________
 
 Sculpting Processes:
@@ -63,8 +74,5 @@ Types of Sculpting:
 - for Texture Maps
 
 Basic Sculpting Steps:
--
+- Udating Soon!
 __________________________________________
-
-Video Editing Processes:
-__________________________________________________
