@@ -219,7 +219,14 @@ Clear Attribute Keys - Shift Ctrl K
 Graph Editor Options:
 - 
 
+Camera Options:
+Toggle Camera View - Numpad 0
+Align Camera to View - Ctrl Numpad 0
+Toggle Adjust Camera View - Shift Numpad 0
+
 3D View Render Options:
 Viewport Render - F12
 Playpack Render - F11
 __________________________________________________
+
+New Hotkeys:

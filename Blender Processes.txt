@@ -1,13 +1,6 @@
 __________________________________________
 
-Modeling Processes:
-
-Types of Modeling:
-- "Box"-Modeling
-- "Non"-Destructive
-
-Basic Modeling Steps:
-- 
+Basic Processes:
 
 Add Image Refrence:
 - Rotate View to Match Refrence
@@ -17,23 +10,41 @@ Add Image Refrence:
 - Add an 'Image->Refrence' Object to Scene
 - Locate the Image Refrence File to Import
 - In Outliner, 'Double Click' Image Refrence,
-- Re-Name Image Refrence to Match View Name
+- Re-Name Image Refrence to Match View
 - Go to Properties Tab, Under Object Data,
 - Set Depth, Side, Display & Transparency
 - Adjust Image Transform in the Viewport
 - Disable Selection of Image In Outliner
 [Video Walk-Thru: - Coming Soon!]
-
-Mirror Mesh:
-- In Edit Mode, Select Unwanted Mesh Half
-- Delete Vertecies, Keep Middle Verticies
-- 
 __________________________________________
 
-UV Unwrapping Processes:
+Modeling Processes:
+
+Types of Modeling:
+- "Box"-Modeling
+- "Non"-Destructive
+
+Basic Modeling Steps:
+- achieve base shapes
+- gets smaller details
+- apply subdivision &
+- & edge loop holds!
+- & face inset holds!
+- reduce poly count!
+- separate/join parts
+
+Mirror Mesh:
+- make sure your mesh has a middle loop
+- In Edit Mode, Select Unwanted Mesh Half
+- Delete Vertecies, Keep Middle Verticies
+-  
+[Video Walk-Thru: - Coming Soon!]
+__________________________________________
+
+UV Unwrapping Processes: 
 
 Basic UV Unwrapping Steps:
-- 
+-  
 __________________________________________
 
 Rigging Processes:
@@ -42,18 +53,18 @@ Types of Rigging:
 - Hard-Surface
 - Soft-Body
 - Character
-- Facial
+- Facial Basic
 
-Basic Rigging Steps:
+Rigging Steps:
 - Create Armature/Bones
 - Parent Mesh to Armature
 - Set Desired Vertex Weights
 
 Adding a Driver:
-- 
+-
 
 Making an Action:
-- 
+-
 
 Action Constraints:
 - 
