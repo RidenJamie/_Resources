@@ -71,6 +71,25 @@ Rigging Steps:
 - Create Armature/Bones
 - Parent Mesh to Armature
 - Set Desired Vertex Weights
+
+Create a Vertex Cluster:
+- Have a Vertex Selection
+- Open the Vertex Edit Menu
+- Open the Hooks Vertext Menu
+- Choose "Hook to New Object"
+- Switch to Object Edit Mode
+- Select the Vertex's Object
+- Parent the New Object
+  - ("Keep Transform")
+- Select New Object
+- In-->"Object Properties/
+          Viewport Display"
+  - Check 'Name' & 'In Front'
+- In-->"Object Data Properties"
+  - Set 'Display As' to 'Sphere'
+  - Set 'Size' to 3 cm /('0.03 m')
+- Rename New Object as Cluster Name.
+[Video Walk-Thru: - Coming Soon!]
 ____________________________________
 
 Heirarchy Organization Outline:

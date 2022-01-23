@@ -8,6 +8,11 @@ A: Yes! In 3D Viwport, "View" Menu,
    the first option, "Toggle Quad-View".
 [Video Clip: - Coming Soon!]
 
+Q: Does Blender have Clusters? (Like in Maya)
+A: Yes! Kinda. "Hook Modifiers"
+               & "Empty Spheres".
+[Video Clip: - Coming Soon!]
+
 Q: Does Blender Have BlendShapes? 
 A: Yes. They call them "Shape Keys".
 
