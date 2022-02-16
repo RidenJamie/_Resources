@@ -167,7 +167,7 @@ Delete Loose - Shift Ctrl X
 Fill Holes - Shift Ctrl Z
 __________________________________________________
 
-UV Unwrapping Hotkeys:
+UV Unwrapping Hotkeys: [Not Finished]
 
 Mesh Edit Options:
 UV Unwrap Menu - U
@@ -178,7 +178,7 @@ UV Editor Options:
 - 
 __________________________________________________
 
-Rigging Hotkeys:
+Rigging Hotkeys: [Not Finished] [Needs Organized]
 
 Mesh Edit Options:
 Make "Cluster" - Ctrl Alt C
@@ -215,7 +215,7 @@ Mesh Weight Paint Options:
 - 
 __________________________________________________
 
-Animation Hotkeys:
+Animation Hotkeys: [Not Finished] [Needs Organized]
 
 Keyframe Options:
 Insert Keyframe Menu - I
@@ -225,8 +225,60 @@ Key Attribute on Mouse Hover - Shift K
 Delete Current Attribute Key - Alt K
 Clear Attribute Keys - Shift Ctrl K
 
-Graph Editor Options:
-- 
+Graph Editor View Options:
+Toggle Sidebar - N
+Frame Selected - F
+Frame Current - Numpad 0
+Toggle Hide Handles - Ctrl H
+Set Preview Range - Shift Ctrl P
+Jump to Next Keyframe - Up
+- Previous Keyframe - Down
+Jump to First Frame - Shift Left
+Jump to Last Frame - Shift Right
+
+Graph Editor Selection Options:
+Select Keyframe - Left Click
+- Extend Select - Shift Left Click
+- Column Select - Alt Left Click
+- Extend Column Select - Shift Alt Left Click
+- Select Olny Curves - Ctrl Alt Left Click
+-- Extend Select - Shift Ctrl Alt Left Click
+Box Select - Left Click Drag
+- Extend Select - Shift Left Click Drag
+- Subtract Select - Ctrl Left Click Drag
+Select Previous Keyframe - [
+- Extend Select - Shift [
+Select Next Keyframe - ]
+- Extend Select - Shift ]
+Grow Selection - Ctrl ]
+Shrink Selection - Ctrl [
+Select Linked - L
+Toggle Select All - A
+Invert Selection - Ctrl I
+Circle Selection Tool - C
+
+Graph Editor Editing Options:
+Toggle Frame Snapping - S
+Set Selected Easing Type - E
+Set Selected Handle Type - R
+Set Selected Interpolation - T
+- Set Extrapolation - Shift E
+Smooth Keyframes - Alt O
+Delete Keyframes - Delete
+Duplicate Keyframes - Shift D
+Insert Keyframes - I
+Insert Keyframes - Ctrl Left Click
+- Extend Insert - Shift Ctrl Left Click
+Copy Keyframes - Ctrl C
+Paste Keyframes - Ctrl V
+Paste Keyframes Flipped - Shift Ctrl V
+Toggle Channel Editability - Alt Tab
+Move - Shift W
+Scale - Shift R
+Toggle Proportional Editing - O
+- Proportional Falloff - Shift O
+Call Transform Pivot Menu - .
+Move Time Cursor - Shift Left Click
 
 Camera Options:
 Toggle Camera View - Numpad 0
@@ -236,6 +288,76 @@ Toggle Adjust Camera View - Shift Numpad 0
 3D View Render Options:
 Viewport Render - F12
 Playpack Render - F11
+__________________________________________________
+
+Video Editor Hotkeys: [Needs Organized]
+
+Switching Views Options:
+Sequencer to Graph Editor - Shift Tab
+Graph Editor to Dope Sheet - Tab
+Dope Sheet to Graph Editor - Tab
+Graph Editor to Sequencer - Shift Tab
+File Browser to Graph Editor - Shift Ctrl Tab
+Graph Editor to File Browser - Shift Ctrl Tab
+File Browser to Sequencer - Ctrl Tab
+Sequencer to File Browser - Shift `
+Toggle Sequencer Views - Ctrl Tab
+Toggle View/Edit Meta Strip - Tab
+
+Sequencer View Options:
+Toggle Overlays - Shift O
+Toggle Sidebar - N
+Frame Selected - F
+Frame All - Shift F
+Frame Current - Numpad 0
+Mute/Hide Selected Strips - H
+- Unmute/Unhide Strips - Alt H
+Jump to First Frame - Shift Left
+Jump to Last Frame - Shift Right
+Jump to Next Strip - Page Up
+- Previous Strip - Page Down
+Jump to Next Strip's Middle - Ctrl Page Up
+- Previous Strip's Middle - Ctrl Page Down
+
+Sequencer Selection Options:
+Select Strip - Right Click
+- Extend Select - Shift Right Click
+Box Select - Right Click Drag
+- Extend Select - Shift Right Click Drag
+- Subtract Select - Ctrl Right Click Drag
+Grow Selection - Ctrl ]
+Shrink Selection - Ctrl [
+Select Linked - L
+- Extend - Shift L
+Toggle Select All - A
+Invert Selection - Ctrl I
+Circle Selection Tool - C
+
+Sequencer Editor Options:
+Add to Sequencer - Shift A
+Call Range Menu - Shift R
+Change Clip Effect - C
+Slip/Slide Strip - S
+Move Strip - Shift W
+Extend Strip - Shift X
+Soft Split Selected Strips - V
+- Hard Split Strips - Shift V
+Lock Selected Strips - Shift L
+- UnLock Strips - Shift Alt L
+Reload Selected Strips - Alt R
+Refresh Sequencer - Ctrl R
+Duplicate Strips - Shift D
+Erase Strips - Delete
+Copy Strips - Ctrl C
+Paste Strips - Ctrl V
+Group Strips/Make Meta - Ctrl G
+- Revert Group/Meta - Ctrl Alt G
+Swap Strips - Alt Left, Alt Right
+Remove Gaps - Backspace
+Insert Gaps - Shift =
+Move Time Cursor - Left Click
+Snap Strips to Current Frame - Shift S
+
 __________________________________________________
 
 New Hotkeys:

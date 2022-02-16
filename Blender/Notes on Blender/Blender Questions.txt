@@ -20,4 +20,8 @@ Q: Does Blender have Set-Driven Keys? (Like in Maya)
 A: Yes! Kinda. "Action Constraints"
                & "Property Drivers".
 [Video Clip: - Coming Soon!]
+
+Q: Can Blender be used for Video Editing? (Like Premiere)
+A: Yessir!
+[Video Clip: - Coming Soon!]
 __________________________________________
