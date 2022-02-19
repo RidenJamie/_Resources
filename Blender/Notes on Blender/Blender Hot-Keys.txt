@@ -5,7 +5,7 @@ General Hotkeys:
 File Management:
 Save File - Ctrl S
 
-Selecting Options:
+Selecting:
 Toggle Select All - A
 De-Select All - Alt A
 Invert Selection - Ctrl I
@@ -23,7 +23,7 @@ Add Child Object to Selection - Shift ]
 (Object Mode) Select Children - Shift G
 (Object Mode) Select Parents - Ctrl G
 
-Navigation Options:
+Navigation:
 Frame Selected - F
 Rotate View - Alt Middle Click Drag
 Pan View - Shift Middle Click Drag
@@ -31,7 +31,7 @@ Pan View - Shift Alt Middle Click Drag
 Zoom View - Ctrl Middle Click Drag
 Zoom View - Scroll Wheel
 
-Transformation Options:
+Transformation:
 Set Tool Select - Q
 Set Tool Move - W
 Set Tool Rotate - E
@@ -47,7 +47,7 @@ Zero Out "Apply" Menu - Ctrl A
 Gizmo Orientation Menu - , [Comma]
 Gizmo Pivot Point Menu - . [Period]
 
-3D View Options:
+3D View:
 Hide Selected - H
 Un-Hide All - Alt H
 Ortho Front - Numpad 1
@@ -78,7 +78,7 @@ Toggle 3D Cursor - Shift Ctrl S
 Toggle View Origins - Shift Ctrl A
 Toggle Fullscreen - Shift Ctrl Alt A
 
-Global Editing Options:
+Global Editing:
 Delete Selection - Delete
 Undo - Ctrl Z, Redo - Ctrl Y
 Set 3D Cursor - Shift Left Click
@@ -103,7 +103,7 @@ __________________________________________________
 
 Modeling Hotkeys:
 
-Object Mode Options:
+Object Mode:
 Join Objects - Ctrl J
 Set Origin Menu - Ctrl O
 "Instance" Object - Alt D
@@ -117,7 +117,7 @@ Convert Mesh to Curve - Alt C
 Convert Curve to Mesh - Alt N
 Toggle Transform Pivot - Ctrl . [Period]
 
-Mesh Select Options:
+Mesh Select:
 Vertex Select Mode - 1
 Edge Select Mode - 2
 Face Select Mode - 3
@@ -127,7 +127,7 @@ Select Edge Ring - Ctrl Alt Right Click
 Select Between - Ctrl Right Click
 Grow Selection - Ctrl ], Shrink Selection - Ctrl [
 
-Mesh Edit Options:
+Mesh Edit:
 Loop Cut - Ctrl R
 Extrude On Normals - Shift X
 Join Selected Verticies - J
@@ -161,7 +161,7 @@ Call Face Menu - Shift Ctrl F
 Separate Meshes Menu - P
 
 
-Clean-Up Tool Options:
+Clean-Up Tool:
 Merge By Distance - Shift Ctrl C
 Delete Loose - Shift Ctrl X
 Fill Holes - Shift Ctrl Z
@@ -169,21 +169,21 @@ __________________________________________________
 
 UV Unwrapping Hotkeys: [Not Finished]
 
-Mesh Edit Options:
+Mesh Edit:
 UV Unwrap Menu - U
 Mark Edge Seam - Alt M
 Clear Edge Seam - Ctrl M
 
-UV Editor Options:
+UV Editor:
 - 
 __________________________________________________
 
 Rigging Hotkeys: [Not Finished] [Needs Organized]
 
-Mesh Edit Options:
+Mesh Edit:
 Make "Cluster" - Ctrl Alt C
 
-Bone Edit Options:
+Bone Edit:
 Bone Display Menu - Shift Ctrl D
 Make Parent Menu - Ctrl P
 Disconnect Menu - Alt P
@@ -198,26 +198,26 @@ Flip Bone Direction - Shift F
 Click Extrude - Ctrl Left Click
 Select Between - Ctrl Right Click
 
-Pose Mode Options:
+Pose Mode:
 Set Rotation Mode Menu - Ctrl R
 
-Driver Options:
+Driver:
 Add Driver to Attribute - Ctrl D
 Edit Attribute Driver - Alt D
 Copy Attribute Driver - Shift D
 Paste Attribute Driver - Shift Ctrl D
 Remove Attribute Driver - Shift Alt D
 
-Driver Editor Options:
+Driver Editor:
 - 
 
-Mesh Weight Paint Options:
+Mesh Weight Paint:
 - 
 __________________________________________________
 
 Animation Hotkeys: [Not Finished] [Needs Organized]
 
-Keyframe Options:
+Keyframe:
 Insert Keyframe Menu - I
 Delete Current Keyframe - Alt I
 Clear All Keyframes - Shift Alt I
@@ -225,7 +225,7 @@ Key Attribute on Mouse Hover - Shift K
 Delete Current Attribute Key - Alt K
 Clear Attribute Keys - Shift Ctrl K
 
-Graph Editor View Options:
+Graph Editor View:
 Toggle Sidebar - N
 Frame Selected - F
 Frame Current - Numpad 0
@@ -236,7 +236,7 @@ Jump to Next Keyframe - Up
 Jump to First Frame - Shift Left
 Jump to Last Frame - Shift Right
 
-Graph Editor Selection Options:
+Graph Editor Selection:
 Select Keyframe - Left Click
 - Extend Select - Shift Left Click
 - Column Select - Alt Left Click
@@ -257,7 +257,7 @@ Toggle Select All - A
 Invert Selection - Ctrl I
 Circle Selection Tool - C
 
-Graph Editor Editing Options:
+Graph Editor Editing:
 Toggle Frame Snapping - S
 Set Selected Easing Type - E
 Set Selected Handle Type - R
@@ -280,19 +280,19 @@ Toggle Proportional Editing - O
 Call Transform Pivot Menu - .
 Move Time Cursor - Shift Left Click
 
-Camera Options:
+Camera:
 Toggle Camera View - Numpad 0
 Align Camera to View - Ctrl Numpad 0
 Toggle Adjust Camera View - Shift Numpad 0
 
-3D View Render Options:
+3D View Render:
 Viewport Render - F12
 Playpack Render - F11
 __________________________________________________
 
-Video Editor Hotkeys: [Needs Organized]
+Video Editor Hotkeys:
 
-Switching Views Options:
+Switching Views:
 Sequencer to Graph Editor - Shift Tab
 Graph Editor to Dope Sheet - Tab
 Dope Sheet to Graph Editor - Tab
@@ -304,8 +304,7 @@ Sequencer to File Browser - Shift `
 Toggle Sequencer Views - Ctrl Tab
 Toggle View/Edit Meta Strip - Tab
 
-Sequencer View Options:
-Toggle Overlays - Shift O
+Sequencer View:
 Toggle Sidebar - N
 Frame Selected - F
 Frame All - Shift F
@@ -318,8 +317,9 @@ Jump to Next Strip - Page Up
 - Previous Strip - Page Down
 Jump to Next Strip's Middle - Ctrl Page Up
 - Previous Strip's Middle - Ctrl Page Down
+Toggle Overlays - Shift O
 
-Sequencer Selection Options:
+Sequencer Selection:
 Select Strip - Right Click
 - Extend Select - Shift Right Click
 Box Select - Right Click Drag
@@ -333,7 +333,7 @@ Toggle Select All - A
 Invert Selection - Ctrl I
 Circle Selection Tool - C
 
-Sequencer Editor Options:
+Sequencer Editor:
 Add to Sequencer - Shift A
 Call Range Menu - Shift R
 Change Clip Effect - C

@@ -180,3 +180,25 @@ Types of Sculpting:
 Basic Sculpting Steps:
 - 
 __________________________________________
+
+Video Editing Processes:
+
+Basic Video Editing Steps:
+- Import Videos / Any Media
+- Fit Play Range to Videos
+- Create Proxys for Videos
+- Add Any Edits to Video
+- Prepare Export Settings
+- Test Export for Quality
+- Check Video for "Blocking"
+- Check Audio / Video Desync
+- Adjust Settings if Needed
+- Export Full Video if Clean
+[Video Walk-Thru: - Coming Soon!]
+
+Basic Video Editing:
+- Crop Video Lengths
+- Hard Cut, Soft Cut
+- Fades, Transitions
+- 
+__________________________________________
