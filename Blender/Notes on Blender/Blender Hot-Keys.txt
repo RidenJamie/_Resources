@@ -325,6 +325,9 @@ Select Strip - Right Click
 Box Select - Right Click Drag
 - Extend Select - Shift Right Click Drag
 - Subtract Select - Ctrl Right Click Drag
+Select Right Handle - Ctrl Right Arrow
+Select Left Handle - Ctrl Left Arrow
+Select Both Handles - Ctrl Up Arrow
 Grow Selection - Ctrl ]
 Shrink Selection - Ctrl [
 Select Linked - L
@@ -336,10 +339,9 @@ Circle Selection Tool - C
 Sequencer Editor:
 Add to Sequencer - Shift A
 Call Range Menu - Shift R
+Slip/Slide Strip - Alt S
 Change Clip Effect - C
-Slip/Slide Strip - S
 Move Strip - Shift W
-Extend Strip - Shift X
 Soft Split Selected Strips - V
 - Hard Split Strips - Shift V
 Lock Selected Strips - Shift L
